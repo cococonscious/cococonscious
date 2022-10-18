@@ -2,7 +2,8 @@
 - 👀 I’m interested in ergonomic keyboards and software engineering
 - 🌱 I’m currently working as an apprentice in software engineering in Switzerland
 - 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/finley-thomalla-70753a213)
+  - on [LinkedIn](https://www.linkedin.com/in/finley-thomalla-70753a213)
+  - on Element at @cococonscious:matrix.org
   - ... more coming
 
 <!---
